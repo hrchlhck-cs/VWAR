@@ -14,8 +14,7 @@ Shader "Custom/Color"
         
         #pragma vertex vert
         #pragma fragment frag
-
-        float4 _Color;
+        
         float _Cyan;
         float _Yellow;
         float _Magenta;
